@@ -1,6 +1,6 @@
 🌟 Hi there! Welcome to My Portfolio 👋
 
-    I am Iliyana, an AI Engineer.
+    I am Iliyane, an AI Engineer.
     I specialize in building responsive, high-performance applications with a keen eye for user experience.
     Currently, I'm working on Generative AI.
 
@@ -14,21 +14,21 @@ This section showcases your technical skills using icons for a visually appealin
 
 🚀 Featured Projects
 
-[Project Name 1]
+AI-powered text summarizer for news articles
 
     Description: Let people know what the project does, its purpose, and unique features.
-    Tech Stack: [List of technologies used].
-    Live Demo: [Link to your live application (if applicable)]
-    Repository: [Link to the project's GitHub repository]
-    Visuals:
+    Tech Stack: Python, 
+    Live Demo: Coming Soon
+    Repository: Coming Soon
+    Visuals: Coming Soon
 
 
-[Project Name 2]
+Generative AI
 
     Description: A clear description of the project.
-    Tech Stack: [List of technologies used].
-    Live Demo: [Link to your live application (if applicable)]
-    Repository: [Link to the project's GitHub repository]
+    Tech Stack: Python, HuggingFace
+    Live Demo: Coming Soon
+    Repository: Coming Soon
 
 📊 GitHub Stats
 
